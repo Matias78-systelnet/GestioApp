@@ -1,6 +1,6 @@
 # GestioApp — Frontend v2.1
 
-GestioApp es una aplicación que unifica la gestión de microservicios y control de políticas, control de activos, usuarios y auditoría para PyMEs con múltiples sedes. 
+Plataforma web de control de activos, usuarios y auditoría para PyMEs con múltiples sedes.
 HTML + JavaScript (sin frameworks ni compilación) + Bootstrap 5 (solo CSS) + Bootstrap Icons.
 
 - **Listo para conectar un backend**: todas las pantallas pasan por una capa de datos (`Api`) que funciona
