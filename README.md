@@ -1,4 +1,4 @@
-# GestioApp — Frontend v2.1
+# GestioApp
 
 Plataforma web de control de activos, usuarios y auditoría para PyMEs con múltiples sedes.
 HTML + JavaScript (sin frameworks ni compilación) + Bootstrap 5 (solo CSS) + Bootstrap Icons.
